@@ -110,15 +110,6 @@ Traffic Distribution between multiple EC2 Instances.
 
 
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
-
 
 ## 🌐 Connect With Me
 
