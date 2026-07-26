@@ -109,6 +109,7 @@ CPU Monitoring with automatic Email Alerts.
 Traffic Distribution between multiple EC2 Instances.
 
 
+
 ## 🔥 GitHub Streak
 
 <p align="center">
@@ -117,17 +118,7 @@ Traffic Distribution between multiple EC2 Instances.
 
 </p>
 
----
 
-## 📊 Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
-
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -147,17 +138,7 @@ Traffic Distribution between multiple EC2 Instances.
 
 </p>
 
----
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=7"/>
-
-</p>
-
----
 
 ## 💡 Quote
 
