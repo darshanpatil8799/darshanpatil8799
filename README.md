@@ -138,7 +138,7 @@ Traffic Distribution between multiple EC2 Instances.
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
 </a>
 
-<a href="www.linkedin.com/in/darshan-patil-aws-devops">
+<a href="https://www.linkedin.com/in/darshan-patil-aws-devops">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
 </a>
 
