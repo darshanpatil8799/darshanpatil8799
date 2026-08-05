@@ -13,10 +13,6 @@ Hi 👋, I'm Darshan Patil
 🚀 DevOps Engineer | ☁️ AWS Cloud Enthusiast | 🐧 Linux | 🐳 Docker | ☸️ Kubernetes
 </h3>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile;DevOps+Engineer;AWS+Cloud+Engineer;Linux+Administrator;Docker+%7C+Kubernetes;Terraform+%7C+Jenkins;Always+Learning+New+Technologies+🚀" />
-</p>
-
 ---
 
 # 👨‍💻 About Me
