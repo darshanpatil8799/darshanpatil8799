@@ -5,141 +5,266 @@
 <img width="1600" height="639" alt="WhatsApp Image 2026-07-26 at 7 11 46 PM" src="https://github.com/user-attachments/assets/a2e22ce8-41c1-4e0b-920a-1b2c50ee8105" />
 
 
-<h1 align="center">Hi 👋, I'm Darshan Patil</h1>
+<h1 align="center">
+Hi 👋, I'm Darshan Patil
+</h1>
 
 <h3 align="center">
 🚀 DevOps Engineer | ☁️ AWS Cloud Enthusiast | 🐧 Linux | 🐳 Docker | ☸️ Kubernetes
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;AWS+Cloud+Computing;Linux+Administrator;Docker+%7C+Kubernetes;CI%2FCD+Pipeline+Learner;Always+Learning+New+Technologies&center=true&width=700&height=45&color=00C853&size=28">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile;DevOps+Engineer;AWS+Cloud+Engineer;Linux+Administrator;Docker+%7C+Kubernetes;Terraform+%7C+Jenkins;Always+Learning+New+Technologies+🚀" />
 </p>
-
----
-
-## 👨‍💻 About Me
-
-🔹 B.Sc. Computer Science Graduate
-
-🔹 Passionate about Cloud Computing & DevOps
-
-🔹 Learning AWS Infrastructure & Automation
-
-🔹 Interested in Linux Administration
-
-🔹 Love Building Real-World Cloud Projects
-
-🔹 Open to Internship & Entry-Level Opportunities
-
----
-
-## 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,git,github,bash,terraform,jenkins,python,vscode"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
 
 </p>
 
 ---
 
-## ☁️ AWS Services
+# 👨‍💻 About Me
 
-✅ EC2
+🎓 B.Sc. Computer Science Graduate
 
-✅ S3
+☁️ Passionate about Cloud Computing & DevOps
 
-✅ IAM
+🚀 Building Real-World AWS Projects
 
-✅ VPC
+🐧 Linux Enthusiast
 
-✅ CloudWatch
+⚡ Learning Infrastructure Automation
 
-✅ SNS
+🌍 Open to DevOps Internship & Entry-Level Opportunities
 
-✅ Load Balancer
-
-✅ Auto Scaling
-
-✅ Route53
+💡 Believe in Continuous Learning & Automation
 
 ---
 
-## 💼 DevOps Tools
-
-✔ Git
-
-✔ GitHub
-
-✔ Docker
-
-✔ Kubernetes
-
-✔ Jenkins
-
-✔ Terraform
-
-✔ Shell Scripting
-
-✔ Linux
-
-✔ AWS CLI
-
----
-
-## 📂 Featured Projects
-
-### ☁️ AWS S3 Static Website Hosting
-Hosting static website using Amazon S3.
-
----
-
-### ⚡ AWS EC2 + Nginx Server
-Deploying web server on EC2 Linux instance.
-
----
-
-### 📊 AWS CloudWatch + SNS Monitoring
-CPU Monitoring with automatic Email Alerts.
-
----
-
-### ⚖️ Application Load Balancer
-Traffic Distribution between multiple EC2 Instances.
-
-
-
-
-## 🌐 Connect With Me
+# 🚀 Tech Stack
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="https://www.linkedin.com/in/darshan-patil-aws-devops">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://darshanpatil8799@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
-
-
-
-## 💡 Quote
-
-<p align="center">
-
-<i>"Automate everything. Learn continuously. Build the future with Cloud & DevOps."</i>
+<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,git,github,bash,terraform,jenkins,python,vscode,nginx"/>
 
 </p>
 
 ---
 
-<h3 align="center">
-⭐ Thanks for visiting my profile! ⭐
-</h3>
+# ☁️ AWS Services
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws"/>
+
+<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3"/>
+
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Load_Balancer-FF9900?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 💼 DevOps Tools
+
+✅ Git
+
+✅ GitHub
+
+✅ Docker
+
+✅ Kubernetes
+
+✅ Jenkins
+
+✅ Terraform
+
+✅ Shell Scripting
+
+✅ Linux
+
+✅ AWS CLI
+
+---
+
+# 📂 Featured Projects
+
+## ☁️ AWS S3 Static Website Hosting
+
+✔ Hosted Static Website using Amazon S3
+
+✔ Enabled Public Access
+
+✔ Configured Bucket Policy
+
+---
+
+## ⚡ AWS EC2 + Nginx Deployment
+
+✔ Amazon Linux EC2
+
+✔ Installed Nginx
+
+✔ Hosted Web Application
+
+---
+
+## 📊 CloudWatch + SNS Monitoring
+
+✔ CPU Monitoring
+
+✔ Email Notifications
+
+✔ Stress Testing
+
+---
+
+## ⚖️ Application Load Balancer
+
+✔ Multiple EC2 Instances
+
+✔ High Availability
+
+✔ Traffic Distribution
+
+---
+
+## 🌐 AWS VPC Architecture
+
+✔ Public & Private Subnets
+
+✔ NAT Gateway
+
+✔ Internet Gateway
+
+✔ Route Tables
+
+✔ Security Groups
+
+---
+
+# 🏆 Certifications
+
+<p align="center">
+
+🏅 AWS Educate Introduction to Cloud  *(https://www.credly.com/badges/0896fa8c-c254-492d-b837-47e7c3b16cef/public_url)*
+
+🏅 AWS Educate Getting Started with Storage *(https://www.credly.com/badges/82d7551a-046d-41e7-8d1e-a0414ba8c286/public_url)*
+
+🏅 AWS Educate Compute *(https://www.credly.com/badges/77d3d3b8-2b36-4802-a26e-54b786461244/public_url)*
+
+🏅 AWS Educate Networking *(https://www.credly.com/badges/b31140f3-6c54-41e7-b8fa-632b1d6bbac9/public_url)*
+
+🏅 AWS Educate Security *(https://www.credly.com/badges/0791856f-7db0-4367-9801-ac039ca95f57/public_url)*
+
+🏅 AWS Educate Generative AI *(https://www.credly.com/badges/92fb363b-beb1-4dc0-9eb3-7916cc49729c/public_url)*
+
+🏅 AWS Educate Machine Learning Foundations *(https://www.credly.com/badges/1d40d291-02d4-4605-a10d-b87fb8a9e0ba/public_url)*
+
+🏅 AWS Cloud Quest *(Optional)*
+
+🏅 AWS Certified Cloud Practitioner *(https://www.credly.com/badges/4af0d977-2fb0-4570-85d0-43fb6d97f4ed/public_url)*
+
+🏅 AWS Certified Generative AI Practitioner *(https://www.credly.com/badges/5ba3ad78-72ad-48dc-b47d-9cfabc0a0ba7/public_url)*
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Currently Learning
+
+✅ Docker
+
+✅ Kubernetes
+
+✅ Jenkins
+
+✅ Terraform
+
+✅ CI/CD
+
+✅ GitHub Actions
+
+✅ AWS DevOps
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/darshanpatil8799">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/darshan-devops">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:darshanpatil8799@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+</p>
+
+---
+
+# 💡 DevOps Philosophy
+
+> **"Automate Everything • Learn Every Day • Build Reliable Infrastructure • Keep Improving 🚀"**
+
+---
+
+<h2 align="center">
+
+⭐ Thanks for Visiting My GitHub Profile ⭐
+
+### Happy Coding 🚀
+
+</h2>
