@@ -17,16 +17,6 @@ Hi 👋, I'm Darshan Patil
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C853&center=true&vCenter=true&width=800&lines=Welcome+to+My+GitHub+Profile;DevOps+Engineer;AWS+Cloud+Engineer;Linux+Administrator;Docker+%7C+Kubernetes;Terraform+%7C+Jenkins;Always+Learning+New+Technologies+🚀" />
 </p>
 
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
-
-</p>
-
 ---
 
 # 👨‍💻 About Me
