@@ -77,8 +77,6 @@ Hi 👋, I'm Darshan Patil
 
 <img src="https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge"/>
-
 </p>
 
 ---
