@@ -56,8 +56,8 @@ A static HTML/CSS/JavaScript site hosted on Amazon S3 with static website hostin
 
 ### 🎬 Animated cloud explainers
 Step-by-step animated diagrams built in plain HTML, CSS and JavaScript, told through a shop-owner story.
-- [Apache HTTPD on EC2: 10-step walkthrough](https://darshanpatil8799.github.io/apache-server-visual/)
-- [Application Load Balancer: 9-step walkthrough with an EC2 failure and recovery demo](https://darshanpatil8799.github.io/application-load-balancer-visual/)
+- [Apache HTTPD on EC2: 10-step walkthrough](https://github.com/darshanpatil8799/Apache-Server-Visual-Learning)
+- [Application Load Balancer: 9-step walkthrough with an EC2 failure and recovery demo](https://github.com/darshanpatil8799/Load-Balancer-Visual-Learning)
 
 ---
 
