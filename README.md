@@ -38,7 +38,7 @@
 Jenkins (Java 21 Corretto) and Docker running on Amazon Linux, with a Dockerfile that packages a static site. Git and GitHub trigger the build and deployment.
 `Jenkins` `Docker` `Git` `Amazon Linux`
 
-### 🌐 [Three-Tier Web App on AWS VPC and Security Groups](VPC-Architecture.jpg)
+### 🌐 [Three-Tier Web App on AWS VPC and Security Groups](https://github.com/darshanpatil8799/Three-Tier-Project/blob/main/VPC-Architecture.jpg)
 A three-tier application on a custom VPC with public and private subnets, an internet gateway, a NAT gateway, route tables and layered security groups.
 `VPC` `Subnets` `NAT Gateway` `Security Groups`
 
