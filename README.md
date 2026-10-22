@@ -1,230 +1,89 @@
-## Hi there 👋
+<p align="center">
+  <img width="100%" alt="Darshan Patil, Aspiring Cloud Engineer" src="https://github.com/user-attachments/assets/a2e22ce8-41c1-4e0b-920a-1b2c50ee8105" />
+</p>
 
+<h1 align="center">Hi, I'm Darshan Patil 👋</h1>
 
-
-<img width="1600" height="639" alt="WhatsApp Image 2026-07-26 at 7 11 46 PM" src="https://github.com/user-attachments/assets/a2e22ce8-41c1-4e0b-920a-1b2c50ee8105" />
-
-
-<h1 align="center">
-Hi 👋, I'm Darshan Patil
-</h1>
-
-<h3 align="center">
-🚀 DevOps Engineer | ☁️ AWS Cloud Enthusiast | 🐧 Linux | 🐳 Docker | ☸️ Kubernetes
-</h3>
-
----
-
-# 👨‍💻 About Me
-
-🎓 B.Sc. Computer Science Graduate
-
-☁️ Passionate about Cloud Computing & DevOps
-
-🚀 Building Real-World AWS Projects
-
-🐧 Linux Enthusiast
-
-⚡ Learning Infrastructure Automation
-
-🌍 Open to DevOps Internship & Entry-Level Opportunities
-
-💡 Believe in Continuous Learning & Automation
-
----
-
-# 🚀 Tech Stack
+<h3 align="center">Aspiring Cloud Engineer · Pune, India ☁️</h3>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,git,github,bash,terraform,jenkins,python,vscode,nginx"/>
-
+  I learn cloud by building it, then turn each project into an animated walkthrough that anyone can follow.
 </p>
 
 ---
 
-# ☁️ AWS Services
+## About me
+
+- 🎓 B.Sc. Computer Science graduate (2026, CGPA 8.8), North Maharashtra University
+- ☁️ Hands-on with AWS: EC2, S3, VPC, IAM, CloudWatch, SNS and Application Load Balancer
+- 🐳 Building CI/CD pipelines with Jenkins, Docker and Git on Linux
+- 🎯 Looking for a **Cloud Computing internship**
+- 🔭 Currently learning: Kubernetes, Terraform and GitHub Actions
+
+---
+
+## Tech I've used in projects
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonaws"/>
-
-<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3"/>
-
-<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/VPC-232F3E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/SNS-FF9900?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Load_Balancer-FF9900?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge"/>
-
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,jenkins,git,github,bash,nginx,html,css,js" alt="Tech stack" />
 </p>
 
----
-
-# 💼 DevOps Tools
-
-✅ Git
-
-✅ GitHub
-
-✅ Docker
-
-✅ Kubernetes
-
-✅ Jenkins
-
-✅ Terraform
-
-✅ Shell Scripting
-
-✅ Linux
-
-✅ AWS CLI
+**Learning (no project yet):** Kubernetes · Terraform · GitHub Actions
 
 ---
 
-# 📂 Featured Projects
+## Featured projects
 
-## ☁️ AWS S3 Static Website Hosting
+### 🔁 [CI/CD Pipeline with Jenkins and Docker](https://github.com/darshanpatil8799/CICD-Project)
+Jenkins (Java 21 Corretto) and Docker running on Amazon Linux, with a Dockerfile that packages a static site. Git and GitHub trigger the build and deployment.
+`Jenkins` `Docker` `Git` `Amazon Linux`
 
-✔ Hosted Static Website using Amazon S3
+### 🌐 [Three-Tier Web App on AWS VPC and Security Groups](REPO_LINK_VPC)
+A three-tier application on a custom VPC with public and private subnets, an internet gateway, a NAT gateway, route tables and layered security groups.
+`VPC` `Subnets` `NAT Gateway` `Security Groups`
 
-✔ Enabled Public Access
+### ⚖️ [EC2 and Application Load Balancer](REPO_LINK_ALB)
+EC2 instances on Amazon Linux, Ubuntu, RHEL and Windows Server, accessed over SSH and RDP, with an Application Load Balancer, target groups and health checks in front.
+`EC2` `ALB` `Target Groups` `Linux` `Windows Server`
 
-✔ Configured Bucket Policy
+### 📊 [CloudWatch and SNS Monitoring](REPO_LINK_CLOUDWATCH)
+CloudWatch alarms on EC2 CPU utilization, triggered by stress testing, with SNS sending email alerts when the threshold is crossed.
+`CloudWatch` `SNS` `EC2`
 
----
+### 🪣 [S3 Static Website Hosting](REPO_LINK_S3)
+A static HTML/CSS/JavaScript site hosted on Amazon S3 with static website hosting enabled and a bucket policy controlling public access.
+`S3` `Bucket Policy`
 
-## ⚡ AWS EC2 + Nginx Deployment
-
-✔ Amazon Linux EC2
-
-✔ Installed Nginx
-
-✔ Hosted Web Application
-
----
-
-## 📊 CloudWatch + SNS Monitoring
-
-✔ CPU Monitoring
-
-✔ Email Notifications
-
-✔ Stress Testing
+### 🎬 Animated cloud explainers
+Step-by-step animated diagrams built in plain HTML, CSS and JavaScript, told through a shop-owner story.
+- [Apache HTTPD on EC2: 10-step walkthrough](https://darshanpatil8799.github.io/apache-server-visual/)
+- [Application Load Balancer: 9-step walkthrough with an EC2 failure and recovery demo](https://darshanpatil8799.github.io/application-load-balancer-visual/)
 
 ---
 
-## ⚖️ Application Load Balancer
+## Certifications
 
-✔ Multiple EC2 Instances
+- 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/4af0d977-2fb0-4570-85d0-43fb6d97f4ed/public_url)
+- 🏅 [AWS Certified Generative AI Practitioner](https://www.credly.com/badges/5ba3ad78-72ad-48dc-b47d-9cfabc0a0ba7/public_url)
 
-✔ High Availability
+<details>
+<summary>AWS Educate course badges (7)</summary>
 
-✔ Traffic Distribution
+- [Introduction to Cloud](https://www.credly.com/badges/0896fa8c-c254-492d-b837-47e7c3b16cef/public_url)
+- [Getting Started with Storage](https://www.credly.com/badges/82d7551a-046d-41e7-8d1e-a0414ba8c286/public_url)
+- [Getting Started with Compute](https://www.credly.com/badges/77d3d3b8-2b36-4802-a26e-54b786461244/public_url)
+- [Getting Started with Networking](https://www.credly.com/badges/b31140f3-6c54-41e7-b8fa-632b1d6bbac9/public_url)
+- [Getting Started with Security](https://www.credly.com/badges/0791856f-7db0-4367-9801-ac039ca95f57/public_url)
+- [Introduction to Generative AI](https://www.credly.com/badges/92fb363b-beb1-4dc0-9eb3-7916cc49729c/public_url)
+- [Machine Learning Foundations](https://www.credly.com/badges/1d40d291-02d4-4605-a10d-b87fb8a9e0ba/public_url)
 
----
-
-## 🌐 AWS VPC Architecture
-
-✔ Public & Private Subnets
-
-✔ NAT Gateway
-
-✔ Internet Gateway
-
-✔ Route Tables
-
-✔ Security Groups
+</details>
 
 ---
 
-# 🏆 Certifications
+## Connect
 
 <p align="center">
-
-🏅 AWS Educate Introduction to Cloud  *(https://www.credly.com/badges/0896fa8c-c254-492d-b837-47e7c3b16cef/public_url)*
-
-🏅 AWS Educate Getting Started with Storage *(https://www.credly.com/badges/82d7551a-046d-41e7-8d1e-a0414ba8c286/public_url)*
-
-🏅 AWS Educate Compute *(https://www.credly.com/badges/77d3d3b8-2b36-4802-a26e-54b786461244/public_url)*
-
-🏅 AWS Educate Networking *(https://www.credly.com/badges/b31140f3-6c54-41e7-b8fa-632b1d6bbac9/public_url)*
-
-🏅 AWS Educate Security *(https://www.credly.com/badges/0791856f-7db0-4367-9801-ac039ca95f57/public_url)*
-
-🏅 AWS Educate Generative AI *(https://www.credly.com/badges/92fb363b-beb1-4dc0-9eb3-7916cc49729c/public_url)*
-
-🏅 AWS Educate Machine Learning Foundations *(https://www.credly.com/badges/1d40d291-02d4-4605-a10d-b87fb8a9e0ba/public_url)*
-
-🏅 AWS Cloud Quest *(Optional)*
-
-🏅 AWS Certified Cloud Practitioner *(https://www.credly.com/badges/4af0d977-2fb0-4570-85d0-43fb6d97f4ed/public_url)*
-
-🏅 AWS Certified Generative AI Practitioner *(https://www.credly.com/badges/5ba3ad78-72ad-48dc-b47d-9cfabc0a0ba7/public_url)*
-
+  <a href="https://www.linkedin.com/in/darshan-patil-aws-devops"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:darshanpatil8799@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
-
----
-
-# 🎯 Currently Learning
-
-✅ Docker
-
-✅ Kubernetes
-
-✅ Jenkins
-
-✅ Terraform
-
-✅ CI/CD
-
-✅ GitHub Actions
-
-✅ AWS DevOps
-
----
-
-# 🌎 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/darshanpatil8799">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/darshan-devops">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="mailto:darshanpatil8799@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-</p>
-
----
-
-# 💡 DevOps learner
-
-> **"Automate Everything • Learn Every Day • Build Reliable Infrastructure • Keep Improving 🚀"**
-
----
-
-<h2 align="center">
-
-⭐ Thanks for Visiting My GitHub Profile ⭐
-
-</h2>
