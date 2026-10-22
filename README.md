@@ -85,6 +85,5 @@ Step-by-step animated diagrams built in plain HTML, CSS and JavaScript, told thr
 
 <p align="center">
   <a href="https://www.linkedin.com/in/darshan-patil-aws-devops"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <p1 align="center">📧 darshanpatil8799@gmail.com</p1>
 </a>
 </p>
