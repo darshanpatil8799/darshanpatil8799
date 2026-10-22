@@ -42,15 +42,15 @@ Jenkins (Java 21 Corretto) and Docker running on Amazon Linux, with a Dockerfile
 A three-tier application on a custom VPC with public and private subnets, an internet gateway, a NAT gateway, route tables and layered security groups.
 `VPC` `Subnets` `NAT Gateway` `Security Groups`
 
-### ⚖️ [EC2 and Application Load Balancer](REPO_LINK_ALB)
+### ⚖️ [EC2 and Application Load Balancer](https://github.com/darshanpatil8799/Elastic-load-balancer-/blob/main/EC2-With-ELB.pdf)
 EC2 instances on Amazon Linux, Ubuntu, RHEL and Windows Server, accessed over SSH and RDP, with an Application Load Balancer, target groups and health checks in front.
 `EC2` `ALB` `Target Groups` `Linux` `Windows Server`
 
-### 📊 [CloudWatch and SNS Monitoring](REPO_LINK_CLOUDWATCH)
+### 📊 [CloudWatch and SNS Monitoring](https://github.com/darshanpatil8799/CloudWatch-SNS/blob/main/CloudWatch-SNS.pdf)
 CloudWatch alarms on EC2 CPU utilization, triggered by stress testing, with SNS sending email alerts when the threshold is crossed.
 `CloudWatch` `SNS` `EC2`
 
-### 🪣 [S3 Static Website Hosting](REPO_LINK_S3)
+### 🪣 [S3 Static Website Hosting](https://github.com/darshanpatil8799/S3-bucket-hosting/blob/main/S3-STATIC-WEBSITE.pdf)
 A static HTML/CSS/JavaScript site hosted on Amazon S3 with static website hosting enabled and a bucket policy controlling public access.
 `S3` `Bucket Policy`
 
